@@ -7,3 +7,21 @@
     color: aliceblue;
     
 }
+.primery-style{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #646262;
+    color: aliceblue;
+    border-radius: 10px;
+    padding: 20px;
+    text-transform: uppercase;
+}
+.text{
+    background: #9e5d5d;
+    padding: 10px;
+    border-radius: 5px;
+    
+
+}
