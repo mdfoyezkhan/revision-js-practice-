@@ -20,8 +20,13 @@
 }
 .text{
     background: #9e5d5d;
-    padding: 10px;
-    border-radius: 5px;
+    padding: 10px 40px;
+    border-radius: 10px;
+    display: flex;
+    margin: 10px auto;
+    flex-wrap: wrap;
+    width: 700px;
+    gap:50px;
     
 
 }
